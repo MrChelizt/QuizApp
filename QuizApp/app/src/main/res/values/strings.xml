@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">Which planet has the lowest density?</string>
+    <string name="question2">How many satellites does Jupiter have?</string>
+    <string name="question3">What is the hottest planet of solar system?</string>
+    <string name="question4">Which of these are satellites of Saturn?</string>
+    <string name="question5">Which satellite orbits with \"retrograde orbit\"?</string>
+    <string name="q11">Neptune</string>
+    <string name="q12">Saturn</string>
+    <string name="q13">Jupiter</string>
+    <string name="q14">Uranus</string>
+    <string name="q21">75</string>
+    <string name="q22">77</string>
+    <string name="q23">62</string>
+    <string name="q24">69</string>
+    <string name="q31">Mars</string>
+    <string name="q32">Earth</string>
+    <string name="q33">Venus</string>
+    <string name="q34">Mercury</string>
+    <string name="q41">Europa</string>
+    <string name="q42">Titan</string>
+    <string name="q43">Io</string>
+    <string name="q44">Callisto</string>
+    <string name="q45">Ganymede</string>
+    <string name="q46">Encaladus</string>
+    <string name="q51">Ariel</string>
+    <string name="q52">Umbriel</string>
+    <string name="q53">Triton</string>
+    <string name="q54">Oberon</string>
+    <string name="q6">Type the two words above</string>
+    <string name="submit">submit</string>
+</resources>
